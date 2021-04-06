@@ -1,0 +1,21 @@
+{
+    "name": "bloo-dark",
+    "displayName": "Bloo Dark",
+    "description": "A soft blue theme with complimentary colors.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bloo Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bloo Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
