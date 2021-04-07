@@ -2,7 +2,7 @@
     "name": "bloo-dark",
     "displayName": "Bloo Dark",
     "description": "A soft blue theme with complimentary colors.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "GeorgeJindo",
     "repository": {
         "type": "git",
@@ -18,7 +18,7 @@
     "galleryBanner": {
         "color": "#233040",
         "theme": "dark"
-      },
+    },
     "engines": {
         "vscode": "^1.55.0"
     },
